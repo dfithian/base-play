@@ -1,0 +1,2 @@
+# An example controller showing a sample home page
+POST /api/v1/ping controllers.PingController.ping
